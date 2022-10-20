@@ -1,0 +1,7 @@
+notebook
+jupyter_http_over_ws
+regex
+opencv-python
+pandas
+matplotlib
+ipywidgets
